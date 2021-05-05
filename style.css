@@ -1,0 +1,98 @@
+body {
+    background-color: white;
+    color: black;
+}
+
+button {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    text-align: center;
+    line-height: 47px;
+    height: 50px;
+    width: 50px;
+    border: 1px solid grey;
+    border-radius: 50%;
+}
+
+
+
+body{
+    padding-bottom: 50px;
+}
+
+.picture{
+    padding: 10px;
+}
+
+.image{
+    height: 250px;
+    background: midnightblue;
+}
+
+.poke{
+    font-weight: bold;
+}
+
+.chaser{
+    width: 50px;
+    height: 50px;
+    background: red;
+    border-radius: 50%;
+}
+
+.runner{
+    width: 50px;
+    height: 50px;
+    background: green;
+    border-radius: 50%;
+}
+
+.box{
+    border: 1px solid grey;
+    height: 350px;
+}
+
+.carouselContainer{
+    background: royalblue;
+    height: 400px;
+}
+
+.title{
+    font-size: 1.5em;
+    margin-top: 100px;
+    margin-bottom: 20px;
+}
+
+.lightMode{
+    background: rgb(245, 245, 245);
+    color: rgb(10, 10, 10);
+}
+
+.darkMode{
+    background: rgb(10, 10, 10);
+    color: rgb(245, 245, 245);
+}
+
+.bigTitle{
+    font-size: 2.5em;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.mode{
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    text-align: center;
+    line-height: 47px;
+    height: 50px;
+    width: 50px;
+    border: 1px solid grey;
+    border-radius: 50%;
+}
+
+.mode:hover{
+    cursor: pointer;
+}
